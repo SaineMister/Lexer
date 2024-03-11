@@ -327,6 +327,7 @@ for everyone!!!
         }
     }
 
+
     TEST(ErrorCode, EmptyChar)
     {
         using namespace std;
