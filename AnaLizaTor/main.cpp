@@ -24,6 +24,7 @@ int main()
             cout << currentLex.first << endl;
         }
     }
+    cout << LEX_EOF.first;
 
     return 0;
 }
